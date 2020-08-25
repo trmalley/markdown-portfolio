@@ -1,3 +1,3 @@
-1. First favourite thing
-1. Second favourite thing
-1. Third favourite thing
+- First favourite thing
+- Second favourite thing
+- Third favourite thing
